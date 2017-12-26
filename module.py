@@ -1,0 +1,2 @@
+import normal
+normal.kd()
