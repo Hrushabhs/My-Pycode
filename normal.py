@@ -1,3 +1,3 @@
 def kd():
-    print ("Chutya Admi he")
+    print ("Happy New Year Guysss")
     return
